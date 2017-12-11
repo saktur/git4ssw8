@@ -5,14 +5,10 @@ GRATULACJE ZA CLONE!
 3. primosz
 4. Karaœ
 5.
-<<<<<<< HEAD
-6.
-9.Szymon Bukowski
-=======
 6. Asia
-
+7.
 8. Hubert
-
+9.Szymon Bukowski
 10. Michal
 
 
