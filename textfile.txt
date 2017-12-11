@@ -5,6 +5,10 @@ GRATULACJE ZA CLONE!
 3. primosz
 4. Karaœ
 5.
+<<<<<<< HEAD
+6.
+9.Szymon Bukowski
+=======
 6. Asia
 
 8. Hubert
@@ -19,3 +23,4 @@ GRATULACJE ZA CLONE!
 
 
 
+>>>>>>> 6245234fcb867cb8bfcd2083f5981d1629bd7485
